@@ -19,11 +19,11 @@ So why Yupcoin ?
 We wanted to create a coin that is stable in the market and can be used for
 everyday transactions.
 
-- Coin Distribution 18,000,000
-- Base Maturity 10 Blocks
-- Target Spacing 5 minutes
-- Initial coins per block 1000
-- Halving at 9000
+- Coin Distribution 21,000,000
+- Base Maturity 6 Blocks
+- Target Spacing 1 minutes
+- Initial coins per block 50
+- Halving at 210,000
 
 
 
